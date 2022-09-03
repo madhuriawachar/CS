@@ -1,0 +1,82 @@
+saikrishna@SaiKrishnaAvula:~$ cd ..
+saikrishna@SaiKrishnaAvula:/home$ cd /mnt/c
+saikrishna@SaiKrishnaAvula:/mnt/c$ cd users
+saikrishna@SaiKrishnaAvula:/mnt/c/users$ cd Admin
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin$ cd 'OneDrive - iitgn.ac.in'/
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in$ cd Documents
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time python3 MatrixMultiplication.py
+System Time = 22:29:04
+Total Program Execution time: 4.2886433601379395
+Time for Matrix multiplication block: 4.272114038467407
+Percentage of Matrix multiplication w.r.t Total program exe time: 99.61457924377277
+
+real    0m4.507s
+user    0m4.341s
+sys     0m0.030s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time python3 MatrixMultiplication.py
+System Time = 22:32:05
+Total Program Execution time: 31.41092872619629
+Time for Matrix multiplication block: 31.341177225112915
+Percentage of Matrix multiplication w.r.t Total program exe time: 99.77793874962633
+
+real    0m31.484s
+user    0m31.344s
+sys     0m0.120s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time python3 MatrixMultiplication.py
+System Time = 22:34:29
+Total Program Execution time: 268.09705424308777
+Time for Matrix multiplication block: 267.7842583656311
+Percentage of Matrix multiplication w.r.t Total program exe time: 99.88332737249212
+
+real    4m28.198s
+user    4m27.720s
+sys     0m0.440s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.py
+gcc: error: Matrix_Multiplication.py: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.c
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time ./a.out
+System Time:22:45:45
+Whole program execution time is:0.104460
+Matrix multiplication execution time is:0.103493
+Percentage:99.074378
+System time:22:45:45
+
+real    0m0.112s
+user    0m0.107s
+sys     0m0.000s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.c
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time ./a.out
+System Time:22:46:46
+Whole program execution time is:1.247879
+Matrix multiplication execution time is:1.243097
+Percentage:99.616790
+System time:22:46:46
+
+real    0m1.256s
+user    0m1.251s
+sys     0m0.000s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.c
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time ./a.out
+System Time:22:46:46
+Whole program execution time is:12.055273
+Matrix multiplication execution time is:12.036367
+Percentage:99.843172
+System time:22:46:46
+
+real    0m12.064s
+user    0m12.047s
+sys     0m0.010s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.c
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time ./a.out
+System Time:22:47:47
+Whole program execution time is:1121.772653
+Matrix multiplication execution time is:1121.494393
+Percentage:99.975195
+System time:22:47:47
+
+real    18m41.783s
+user    18m41.423s
+sys     0m0.260s

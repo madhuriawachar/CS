@@ -1,0 +1,34 @@
+saikrishna@SaiKrishnaAvula:~$ cd ..
+saikrishna@SaiKrishnaAvula:/home$ cd /mnt/c
+saikrishna@SaiKrishnaAvula:/mnt/c$ cd users
+saikrishna@SaiKrishnaAvula:/mnt/c/users$ cd Admin
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin$ cd 'OneDrive - iitgn.ac.in'/
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in$ cd Documents
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time python3 MatrixMultiplication.py
+System Time = 22:29:04
+Total Program Execution time: 4.2886433601379395
+Time for Matrix multiplication block: 4.272114038467407
+Percentage of Matrix multiplication w.r.t Total program exe time: 99.61457924377277
+
+real    0m4.507s
+user    0m4.341s
+sys     0m0.030s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time python3 MatrixMultiplication.py
+System Time = 22:32:05
+Total Program Execution time: 31.41092872619629
+Time for Matrix multiplication block: 31.341177225112915
+Percentage of Matrix multiplication w.r.t Total program exe time: 99.77793874962633
+
+real    0m31.484s
+user    0m31.344s
+sys     0m0.120s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$ time python3 MatrixMultiplication.py
+System Time = 22:34:29
+Total Program Execution time: 268.09705424308777
+Time for Matrix multiplication block: 267.7842583656311
+Percentage of Matrix multiplication w.r.t Total program exe time: 99.88332737249212
+
+real    4m28.198s
+user    4m27.720s
+sys     0m0.440s
+saikrishna@SaiKrishnaAvula:/mnt/c/users/Admin/OneDrive - iitgn.ac.in/Documents$

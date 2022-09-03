@@ -1,0 +1,38 @@
+entage:99.873810
+23:25:25saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.c
+saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$ ./a.out
+23:26:26Whole program execution time is:970.844405
+Matrix multiplication execution time is:970.655552
+Percentage:99.980547
+23:26:26saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.c
+saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$ time ./a.out
+23:52:52Whole program execution time is:9.064437
+Matrix multiplication execution time is:9.039848
+Percentage:99.728723
+23:52:52
+real    0m9.074s
+user    0m9.047s
+sys     0m0.021s
+saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.c
+saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$ time ./a.out
+23:54:54Whole program execution time is:0.852802
+Matrix multiplication execution time is:0.850519
+Percentage:99.732282
+23:54:54
+real    0m0.869s
+user    0m0.845s
+sys     0m0.017s
+saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$ gcc Matrix_Multiplication.c
+saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$ time ./a.out
+23:56:56Whole program execution time is:0.088660
+Matrix multiplication execution time is:0.088079
+Percentage:99.344348
+23:56:56
+real    0m0.098s
+user    0m0.082s
+sys     0m0.011s
+saikrishna@SaiKrishnaAvula:/mnt/c/Users/Admin/OneDrive - iitgn.ac.in/Documents$
+
+
+
+
